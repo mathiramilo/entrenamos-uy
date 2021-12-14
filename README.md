@@ -1,4 +1,4 @@
-# entrenamos.uy
+# Entrenamos.uy
 # Mathias Nicolas Ramilo Villar - Taller de Programación - INCO Facultad de Ingenieria UdelaR
 
 Proyecto del curso de Taller de Programación, realizada con los compañeros:
